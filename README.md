@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+These are the most important things that you should know from me:
+
+<img align="left" alt='keepWaiting' width="100" height="100" src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg">
 
 <!--
 **kevinrosalesdev/kevinrosalesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
